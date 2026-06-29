@@ -10,8 +10,7 @@
 <p align="left">
   🚀 Passionate about Fullstack Development<br>
   🛠 Skills: Quality Control & Quality Assurance, Penyusunan SOP dan Work Instruction, Dokumentasi dan Pelaporan, Microsoft Office Excel, Word, PowerPoint, Komunikasi dan Kerja Tim.<br>
-  🔥 Currently expanding my skills in Laravel<br>
-  ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects
+  🔥 Currently expanding my skill in Core Banking System<br>
 </p>
 
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">📩 My Contact </h3> 
 
-
+Email: anfasha02@gmail.com
 
 <br>
 
