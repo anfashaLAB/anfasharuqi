@@ -8,7 +8,7 @@
 ###
 
 <p align="left">
-  🚀 Passionate about Fullstack Development<br>
+  🚀 Passionate about quality assurance with a strong willingness to learn, excellent analytical skills, and a commitment to supporting continuous quality improvement.<br>
   🛠 Skills: Quality Control & Quality Assurance, Penyusunan SOP dan Work Instruction, Dokumentasi dan Pelaporan, Microsoft Office Excel, Word, PowerPoint, Komunikasi dan Kerja Tim.<br>
   🔥 Currently expanding my skill in Core Banking System<br>
 </p>
